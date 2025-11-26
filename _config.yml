@@ -181,7 +181,11 @@ exclude:
   - _pages/blog.md # no blog yet
   - _pages/books.md # no books yet
   - _pages/cv.md # no CV
+  - _pages/dropdown.md # don't show submenues dropdown
+  - _pages/news.md # disable news for now
   - _pages/profiles.md # use project-like people setup instead
+  - _pages/repositories.md # no GitHub section for now
+  - _pages/teaching.md # no teaching page for now
   - _posts/ #
   - bin/
   - CONTRIBUTING.md

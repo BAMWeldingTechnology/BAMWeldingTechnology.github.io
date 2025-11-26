@@ -4,7 +4,7 @@ title: teams
 permalink: /teams/
 description: Research Teams
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [teams]
 horizontal: false
 ---
