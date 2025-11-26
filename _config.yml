@@ -142,12 +142,12 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  books:
-    output: false
-  news:
-    defaults:
-      layout: post
-    output: true
+  # books:
+  #   output: false
+  # news:
+  #   defaults:
+  #     layout: post
+  #   output: true
   projects:
     output: true
     permalink: /:collection/:title/
