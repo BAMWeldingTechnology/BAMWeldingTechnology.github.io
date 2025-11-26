@@ -4,7 +4,7 @@ title: Laser Beam and Hybrid Welding
 description:
 img: assets/img/LaserPikto.png
 importance: 1
-category: Teams
+category: teams
 related_publications: false
 ---
 

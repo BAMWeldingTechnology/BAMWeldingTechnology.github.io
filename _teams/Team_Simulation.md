@@ -4,7 +4,7 @@ title: Welding Simulation
 description:
 img: assets/img/SimulationPikto.png
 importance: 1
-category: Teams
+category: teams
 related_publications: false
 ---
 

@@ -151,7 +151,10 @@ collections:
   projects:
     output: true
     permalink: /:collection/:title/
-  team:
+  teams:
+    output: true
+    permalink: /:collection/:title/
+  people:
     output: true
     permalink: /:collection/:title/
 

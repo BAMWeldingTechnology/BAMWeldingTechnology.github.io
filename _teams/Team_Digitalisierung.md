@@ -4,7 +4,7 @@ title: Digitalisation & Reference Data
 description:
 img: assets/img/WelDXPikto.png
 importance: 1
-category: Teams
+category: teams
 related_publications: false
 ---
 
